@@ -12,9 +12,9 @@ Since 2008, guests and hosts have used Airbnb to expand on travelling possibilit
 
 **Main Libraries to be used:**
 
-  -Pandas for data manipulation, aggregation./n
-  -Matplotlib and Seaborn for visualisation and behaviour with respect to the target variable. Use at least 5 different visualisations./n
-  -NumPy for computationally efficient operations./n
+  -Pandas for data manipulation, aggregation.<br/>
+  -Matplotlib and Seaborn for visualisation and behaviour with respect to the target variable. Use at least 5 different visualisations.<br/>
+  -NumPy for computationally efficient operations.<br/>
 
 **Project Architecture:**
 
